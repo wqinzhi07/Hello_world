@@ -1,0 +1,57 @@
+h1 {
+    color: rgb(118, 230, 221);
+    font: 70px "lucida grande", tahoma, verdana, arial, sans-serif;
+  }
+
+  h2 {
+    color: rgb(118, 230, 221);
+    font: 160px "lucida grande", tahoma, verdana, arial, sans-serif;
+    margin-left: 180px;
+  }
+
+  h3 {
+    color: rgb(118, 230, 221);
+    font: 70px "lucida grande", tahoma, verdana, arial, sans-serif;
+    margin-left: 800px;
+  }
+
+  h4 {
+    color: rgb(244, 167, 209);
+    font: 100px "lucida grande", tahoma, verdana, arial, sans-serif;
+  }
+  
+  em {
+    color: rgb(255, 166, 0);
+  }
+
+  p {
+    color: rgb(118, 230, 221);
+    font: 21px "lucida grande", tahoma, verdana, arial, sans-serif;
+  }
+
+  body {
+    background-color: rgb(238, 96, 96);
+    margin: 100px 100px 100px 100px;
+  }
+
+  a {
+    color: rgb(255, 186, 59);
+  }
+
+  .container {
+    padding: 20px;
+    margin-left: 400px;
+    margin-bottom: 200px;
+  }
+
+  .container2 {
+    padding: 20px;
+    margin-left: 0px;
+    margin-bottom: 200px;
+  }
+
+  .container3 {
+    padding: 20px;
+    margin-left: 0px;
+    margin-bottom: 200px;
+  }
